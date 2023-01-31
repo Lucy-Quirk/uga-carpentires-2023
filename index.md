@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to anyone excited to learn new coding skills in R.
 </p>
 {% endcomment %}
 
