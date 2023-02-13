@@ -67,14 +67,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="eventbright">Register for workshop</h2>
 <p>
-If you have not done so, please register for the workshop through the website below. <strong>Some adblockers block the registration window. If you do not see the registration box below, please check your adblocker settings.</strong>
-<iframe
-  src="https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10136"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
+If you have not done so, please <a href="https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10136"> through this link.</a>
 </p>
 
 
