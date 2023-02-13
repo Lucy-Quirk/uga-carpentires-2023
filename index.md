@@ -64,6 +64,8 @@ This block includes the Eventbrite registration widget if
 are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
+
+{% if page.eventbrite %}
 <h2 id="eventbright">Registration</h2>
 <p>
 <strong>Some adblockers block the registration window. If you do not see the
@@ -76,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 </p>
-
+{% endif %}
 
 
 {% comment %}
