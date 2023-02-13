@@ -65,9 +65,9 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 
-<h2 id="eventbright">Registration</h2>
+<h2 id="eventbright">Register for workshop</h2>
 <p>
-<strong>Some adblockers block the registration window. If you do not see the
+If you have not done so, please register for the workshop through the website below. <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
   src="https://estore.uga.edu/C27063_ustores/web/product_detail.jsp?PRODUCTID=10136"
