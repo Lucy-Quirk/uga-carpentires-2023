@@ -1,4 +1,4 @@
-
+{% if site.curriculum == "dc-ecology" %}
 {% if site.flavor == "r" %}
 
 <h1 id="download-install-r">Install R and R Studio</h2>
@@ -28,6 +28,11 @@ Prior to the workshop, install R and R studio. R Studio is an integrated develop
   can be found at <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">
     the workshop overview site</a>.
 </p>
+
+{% else %}
+{% include warning-curriculum.html %}
+{% endif %}
+
 
 {% else %}
 {% include warning-curriculum.html %}
